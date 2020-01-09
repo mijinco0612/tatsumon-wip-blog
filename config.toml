@@ -10,7 +10,7 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # default content language
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 # disable language
 disableLanguages = ["fr"]
 
