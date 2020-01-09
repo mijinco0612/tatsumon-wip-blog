@@ -9,10 +9,10 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 # disable language
-disableLanguages = []
+disableLanguages = ["fr","en"]
 
 
 ############################# Plugins ##############################
@@ -189,12 +189,24 @@ link = "#"
 ################################# language ################################
 [Languages]
 
+
+  ################################ Japanese Language ########################
+  [Languages.ja]
+  languageName = "Ja"
+  languageCode = "ja"
+  contentDir = "content/japanese"
+  weight = 1
+  home = "Home"
+  # copyright
+  copyright = "Copyright &copy; 2019 Takamichi Tatsumoto All Rights Reserved"
+
+
   ################################ English Language ########################
   [Languages.en]
   languageName = "En"
   languageCode = "en-us"
   contentDir = "content/english"
-  weight = 1
+  weight = 2
   home = "Home"
   # copyright
   copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -204,7 +216,7 @@ link = "#"
   languageName = "Fr"
   languageCode = "fr-fr"
   contentDir = "content/french"
-  weight = 2
+  weight = 3
   home = "Accueil"
   # copyright
   copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"

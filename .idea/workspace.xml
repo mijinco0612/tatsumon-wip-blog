@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dbf0be6-b8bf-4007-b81a-9a1a012ac32d" name="Default Changelist" comment="add netlify.toml">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tatsumon-wip-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/author/john-doe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/author/mark-dinn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/blog-post-6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/contact/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/faq/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/pricing/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/project/rio-furniture-6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/service/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ja/about.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ja/homepage.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ja/pricing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ja/service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.13.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="ProjectId" id="1W9IKsCDABRJQXxgnUkWUdNaG2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="add netlify.toml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add netlify.toml" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="-863" key="#Notifications" timestamp="1578560277001">
+      <screen x="-139" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="421" y="-863" key="#Notifications/-139.-1057.1920.1057/0.23.1680.1027/1680.23.1920.1057@-139.-1057.1920.1057" timestamp="1578560277001" />
+    <state x="393" y="-926" key="CommitChangelistDialog2" timestamp="1578561130568">
+      <screen x="-139" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="393" y="-926" key="CommitChangelistDialog2/-139.-1057.1920.1057/0.23.1680.1027/1680.23.1920.1057@-139.-1057.1920.1057" timestamp="1578561130568" />
+  </component>
+</project>
