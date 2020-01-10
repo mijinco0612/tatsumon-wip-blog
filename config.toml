@@ -5,14 +5,15 @@ theme = "airspace-hugo"
 # post pagination
 paginate = "4"
 # post excerpt
-summaryLength = "30"
+hasCJKLanguage = true
+summaryLength = "100"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # default content language
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # disable language
-disableLanguages = ["fr"]
+disableLanguages = [""]
 
 
 ############################# Plugins ##############################
