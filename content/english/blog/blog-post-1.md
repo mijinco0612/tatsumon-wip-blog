@@ -1,52 +1,106 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
+title: "いきなり1on1を受けようとしたら優しさに包まれた話"
+date: 2019-12-21T09:29:16.358Z
+author: Tatsumon
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+categories: ["management"]
+tags: ["1on1",]
+description: ""
 draft: false
 type: "post"
 ---
+## そもそも...
 
+こちらの記事で「いきなり1on1」なるものがあることが知った。自分が1on1を実施することはあっても、きちんと受けたことはなかったし 自分も試行錯誤しながらやっていたので、知見のある人から学んでみたいなと思っていた。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+{{< tweet 1096637559730364416 >}}
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+とりあえず[@nitt-san](https://twitter.com/nitt_san)のいきなり1on1の実施ログを全て読みこんでみた。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+すごく真摯に取り組んでいらして、毎回のフィードバックを次回に活かしてるのが伝わってきたので、読んでいて身が引き締まる思いだった。 受けた方の感想を目にしていると、自分が1on1しているメンバーにもっと貢献しなければと思い俄然興味が深まっていった。
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+## 勢いにのって、ともかくコンタクトとる。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+{{< tweet 1096638157318025217 >}}
+
+こちらの記事で
+
+> 僕はエンジニアの登壇を応援する会というコミュニティに所属しておりますが （中略）Slackの自分専用チャンネルで、以下のようなことを呟きました。 「ここにいるメンバー相手に1on1やらせてくださいって言ったら、いいよーって人いますかね？」（中略）1分経たずに3人快諾
+
+どうも  [エンジニアの登壇を応援する会 という Slack Workspace](http://bit.ly/engineers_lt) でいきなり1on1の相手を募集してるらしいことがわかり早速joinする。 [@nitt-san](https://twitter.com/nitt_san)を探したところtimesを持ってらっしゃる様子。ここだと思って聞いてみる。 すごく暖かく迎えてもらった！...が
+
+### 残念...と思いきや
+
+残念なことに[@nitt-san](https://twitter.com/nitt_san)は、現在1on1の募集を中止しているとのこと。。 しかたない諦めるか。。と思っていたところ
+
+{{< figure src="/image/slacklog.png" title="" >}}
+
+[@nitt-san](https://twitter.com/nitt_san)が、いきなり1on1をforkして実施されている[@midonoさん](https://twitter.com/midono_ap1)へ声をかけてくださり 秒速で快諾 → 場所も日程もすぐに確保していただけることに・・・！
+
+ありがたい・・・！東京、めっちゃアッタカイ！
+
+[midonoさんの1on1の実施ログ](https://note.com/midono/m/m5062ffbed3a0)をすぐに読み、実施当日を待つことに。。
+
+## そして当日
+
+お忙しいにも関わらす時間を割いてもらい都内某所のファミレスで1on1実施の運びとなった。（本当にありがとうございます！）
+
+{{< tweet 1202255507290935296 >}}
+
+こちらが [@midonoさん](https://twitter.com/midono_ap1)が記録してくださった実施ログ。
+
+(Aさん(匿名希望)となっているのは、私が「今回の1on1具体的な内容は伏せておいて欲しいです。」とをお願いしたからでした。 私が曖昧なお願いをしたので、過分なお気遣いさせることに...（汗） [@midonoさん](https://twitter.com/midono_ap1)有難うございます、すみません。)
+
+## 話したこと
+
+### 現在の仕事を振り返って、悩んでいること
+
+> 現状の組織がまだ安定していないこともありEMを務める一方で、プロジェクトに入り込むことが多かった。 関わったプロジェクトは優秀な仲間に恵まれたこともあって、なんとか着地できた。
+> しかし、PMのような役割を引き受けたものの、直接手を動かして貢献できたことは少なく
+> 自分の無力さを感じることが多かった。
+> プロジェクトは無事着地したのは仲間が優秀であったおかげで、私がいてもいなくても同じなのでは？
+> と思っている。
+
+大まかにはこのようなことを話した。 きちんと言語化して整理ができている状態ではなかった為、冗長になりがちな話題に適度に促しを入れて頂きつつ聞いてもらった。
+おそらく私にペースを合わせて頂いたのか非常に話しやすく、話しながら整理がついていく感覚があった。
+
+その後、この話題について[@midonoさん](https://twitter.com/midono_ap1)から以下のような概要のコメント頂いた
+
+> プロジェクトの中で直接手を下すことなく、プロジェクトを無事に完了させられたのであれば、それはむしろマネージャーとして成功している。 そういう状態だったことは成功体験として考えていいのではないか？
+
+無力だと感じているエピソードが、成功体験だったと聞き、かなり救われる気持ちになった。 関わったプロジェクトは完遂しているのに、どこかで効力感を失っていたのは、私の中に手を動かすことへの強い執着があり、
+それが不十分であるという負い目のようなものを持っていたからだとも気づかせてもらえた。（手を動かせる状態を保つ自己研鑽は大事だけどね）
+
+{{< tweet 1048965538553114624 >}}
+
+こちらのPodcastにあるような、EM = スーパーマンみたいな期待値をどこかで自分に課していたのかなと思った。
+
+### 今後のキャリアについて
+
+これについては内容が内容なので具体的なところは割愛。ざっくりとどういうキャリア形成するとよいかというような話をした。
+
+midonoさんからは以下のような概要のコメントもらった。
+
+> 大変難しい問題だし、回答はもっていない。ただ、気づきが得られるなら今回のような対話をいろんな人とされるといいと思う。その中で自分で答えを見つけられるのではないか？
+
+たしかに、この機会もそうだし、いろんな人と話してみたいと思っている反面、こんなことをしていていいのか？という不安もあったので 背中を押してもらえた気がした。
+
+## 感想
+
+あっという間に2時間弱が過ぎてしまった。 かなり勇気づけをしてもらえたし、自分のこだわりから離れての別の視点から出来事を見させてもらえた。
+また受けて見たいと思うし、私が1on1をする時にこのようなことができたら素敵だなと率直に思えた。
+
+こういう取り組みの連鎖があることが、すごく素敵で私も微力ながら貢献したいなとも。 もし、私でよければ「1on1うけてやってもいいぜ！」って方がいたら、是非とも[Tatsumon](https://twitter.com/tatsumon4)まで連絡ください(>人<)
+
+最後に1on1を引き受けて頂いた[@midonoさん](https://twitter.com/midono_ap1)と素敵な取り組みを広めて下さった[@nitt-san](https://twitter.com/nitt_san) 本当にありがとうございました！！！
+
+## あとがき
+
+12月初旬に1on1を受けたのに記事を書くのが遅れてしまったのは、どこに書くのが最適かなーと逡巡したまま決めきれなかった為です。（怠惰）
+
+結果的に自前のblogを立てて書こうとなりました。この辺りのことは、また別記事にしようかと思います。 良いきっかけを頂きました。ありがとうございます!!
+
+そして[@midonoさん](https://twitter.com/midono_ap1)記事が遅くなってしまってすみませんｍ(＿ ＿；)ｍ
+
+* [@nitt-san](https://twitter.com/nitt_san)に敬称つけるとさかなクンさんみたいになってしまう。ここではsanが敬称だとみなしています。
