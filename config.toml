@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://tatsumon-wip-blog.netlify.com"
+baseURL = "https://tatsumon-wip.com"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
@@ -51,41 +51,21 @@ disableLanguages = ["fr"]
   name = "About"
   URL = "about"
   weight = 1
-  
-  [[menu.main]]
-  name = "Project"
-  URL = "project"
-  weight = 2
-  
+
   [[menu.main]]
   name = "Service"
   URL = "service"
-  weight = 3
+  weight = 2
   
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 4
+  weight = 3
 
-  [[menu.main]]
-  weight = 5
-  name = "Pages"
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "Pricing"
-    URL = "pricing"
-    
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 6
+  weight = 4
 
   
   # footer menu
@@ -93,31 +73,17 @@ disableLanguages = ["fr"]
   name = "About"
   URL = "about"
   weight = 1
-  
-  [[menu.footer]]
-  name = "Project"
-  URL = "project"
-  weight = 2
+
   
   [[menu.footer]]
   name = "Service"
   URL = "service"
-  weight = 3
-  
-  [[menu.footer]]
-  name = "Pricing"
-  URL = "pricing"
-  weight = 4
-  
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 5
+  weight = 2
   
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 6
+  weight = 3
 
 
 #################### default parameters ################################
@@ -126,11 +92,11 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Tatsumon"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+mobile = "#"
+email = "t.t.tatsumoto@gmail.com"
+location = "#"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -162,28 +128,16 @@ google_analitycs_id = "Your ID"
   
 ############################# social site ########################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-github-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://github.com/mijinco0612"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://twitter.com/tatsumon4"
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/takamichi.tatsumoto"
 
 
 ################################# language ################################
