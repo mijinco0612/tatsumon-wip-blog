@@ -12,7 +12,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # disable language
-disableLanguages = ["fr"]
+disableLanguages = []
 
 
 ############################# Plugins ##############################
@@ -199,12 +199,3 @@ link = "#"
   # copyright
   copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
 
-  ################################ France Language ########################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
-  weight = 2
-  home = "Accueil"
-  # copyright
-  copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
