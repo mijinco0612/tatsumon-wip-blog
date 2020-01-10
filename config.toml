@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://tatsumon-wip.com"
-title = "Airspace | Creative Agency Hugo Template"
+title = " Tatsumon's WIP | Tatsumon's blog & profile"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
