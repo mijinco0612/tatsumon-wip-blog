@@ -13,6 +13,11 @@ social:
 ---
 
 SEOコンサルタント→フリーランサー→SMS→DMM.com 
+
 Engineering Manager
+
 Software Engineer
-組織改善と対話、コーチングについてつぶやくことが多いです。
+
+組織改善と対話、コーチングについて関心があります。
+
+ご連絡の際は[twitterからDM](https://twitter.com/tatsumon4)をいただければ幸いです。

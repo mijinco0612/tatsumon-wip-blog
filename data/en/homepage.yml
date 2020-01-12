@@ -2,17 +2,17 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Tatsumon's WIP "
+  content : "Tatsumon's blog & profile"
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Read Blog"
+    link : "blog"
 
 ############################# About #################################
 about:
   enable : true
-  title : "About Us"
+  title : "About Me"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
               blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -40,12 +40,12 @@ portfolio:
   button:
     enable : true
     label : "View Works"
-    link : "project"
+    link : "resume"
 
 
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 
@@ -53,16 +53,16 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "Contact me"
+  content : "Tatsumonへ興味を持って頂いた方はSNSからご連絡いただければ幸いです。"
   button:
     enable : true
-    label : "Tell Us Your Story"
-    link : "contact"
+    label : "Contact"
+    link : "author/tatsumon/"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
