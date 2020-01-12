@@ -54,8 +54,8 @@ disableLanguages = [""]
   weight = 1
 
   [[menu.main]]
-  name = "Service"
-  URL = "service"
+  name = "resume"
+  URL = "resume"
   weight = 2
   
   [[menu.main]]
@@ -63,12 +63,7 @@ disableLanguages = [""]
   URL = "blog"
   weight = 3
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 4
 
-  
   # footer menu
   [[menu.footer]]
   name = "About"
@@ -77,13 +72,13 @@ disableLanguages = [""]
 
   
   [[menu.footer]]
-  name = "Service"
-  URL = "service"
+  name = "resume"
+  URL = "resume"
   weight = 2
-  
+
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  name = "Blog"
+  URL = "blog"
   weight = 3
 
 
@@ -152,7 +147,7 @@ link = "https://www.facebook.com/takamichi.tatsumoto"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+  copyright = "Copyright &copy; 2019 [Takamichi Tatsumoto](https://twitter.com/tatsumon4) All Rights Reserved"
 
   ################################ France Language ########################
   [Languages.fr]

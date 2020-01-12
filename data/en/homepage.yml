@@ -12,7 +12,7 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "About Us"
+  title : "About Me"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
               blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -40,12 +40,12 @@ portfolio:
   button:
     enable : true
     label : "View Works"
-    link : "project"
+    link : "resume"
 
 
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 
@@ -58,11 +58,11 @@ cta:
   button:
     enable : true
     label : "Tell Us Your Story"
-    link : "contact"
+    link : "about"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
