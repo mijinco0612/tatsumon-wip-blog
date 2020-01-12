@@ -5,7 +5,7 @@ author: Tatsumon
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["management"]
-tags: ["1on1",]
+tags: ["1on1"]
 description: ""
 draft: false
 type: "post"
@@ -34,7 +34,7 @@ type: "post"
 
 残念なことに[@nitt-san](https://twitter.com/nitt_san)は、現在1on1の募集を中止しているとのこと。。 しかたない諦めるか。。と思っていたところ
 
-{{< figure src="/image/slacklog.png" title="" >}}
+{{< figure src="/images/slacklog.png" title="" >}}
 
 [@nitt-san](https://twitter.com/nitt_san)が、いきなり1on1をforkして実施されている[@midonoさん](https://twitter.com/midono_ap1)へ声をかけてくださり 秒速で快諾 → 場所も日程もすぐに確保していただけることに・・・！
 
