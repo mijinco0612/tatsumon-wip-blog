@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "略歴"
+description: "自己紹介"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
