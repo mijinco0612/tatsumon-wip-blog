@@ -21,21 +21,20 @@ about:
     label : "Download Resume"
     link : "#"
 
-  funfacts:
-    # funfacts loop
-    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Supervised a staff of 30 + "
-      count : "30"
-      
-    # funfacts loop
-    - icon : "ion-social-yen-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Sales Results 12billion +"
-      count : "12000000000"
-      
-    # funfacts loop
-    - icon : "ion-ios-list-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Complete project 10 +"
-      count : "10"
+  social:
+    - icon: "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      link: "https://www.facebook.com/takamichi.tatsumoto"
+    - icon: "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      link: "https://twitter.com/tatsumon4"
+    - icon: "ion-social-github-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      link: "https://github.com/mijinco0612"
+
+  #funfacts:
+     # funfacts loop
+     # - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+     # name : "Supervised a staff of 30 + "
+     # count : "30"
+
 
 ################################ feature #####################################
 features:
