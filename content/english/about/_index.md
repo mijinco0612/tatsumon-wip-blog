@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-description: "自己紹介"
+title: "About"
+description: "Engineering Manager / Web Engineer"
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
