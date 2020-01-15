@@ -13,11 +13,16 @@ banner:
 about:
   enable : true
   title : "About"
-  description : "Web Engineer / Engineering Manager <br>
+  description : "Tatsumon (Takamichi Tatsumoto)
 
-                 医療福祉領域の運用エンジニア/WEBエンジニア経て、EC事業のEngineering Managerに就任。
 
-                 複数のチームビルド、プロジェクト推進を担当"
+  Web Engineer / Engineering Manager
+
+
+  医療福祉領域の運用エンジニア/WEBエンジニア経て、EC事業のEngineering Managerに就任。
+
+
+  複数のチームビルド、プロジェクト推進を担当"
   content : ""
   image : "images/author.png"
 

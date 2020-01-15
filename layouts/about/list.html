@@ -17,6 +17,12 @@
       <div class="col-md-6">
         <h2 class="mt-40">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
+        <ul class="list-inline">
+          {{ range .social }}
+          <li class="list-inline-item" ><a class="share-icon bg-secondary" style="font-size: xx-large" href="{{ .link | safeURL}}"><i
+                  class="{{ .icon }}"></i></a></li>
+          {{ end }}
+        </ul>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
@@ -24,6 +30,7 @@
         {{ end }}
       </div>
     </div>
+
     <div class="row counter-box text-center mt-50">
       {{ range .funfacts }}
       <div class="col-md-2">
