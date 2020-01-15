@@ -54,8 +54,8 @@ disableLanguages = [""]
   weight = 1
 
   [[menu.main]]
-  name = "resume"
-  URL = "resume"
+  name = "project"
+  URL = "project"
   weight = 2
   
   [[menu.main]]
@@ -72,8 +72,8 @@ disableLanguages = [""]
 
   
   [[menu.footer]]
-  name = "resume"
-  URL = "resume"
+  name = "project"
+  URL = "project"
   weight = 2
 
   [[menu.footer]]

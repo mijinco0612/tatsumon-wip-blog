@@ -1,52 +1,42 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  image : "images/author.png"
+  title : "Tatsumon (Takamichi Tatsumoto)"
+  content : "Web Engineer / Engineering Manager <br>
+
+
+             医療福祉領域の運用エンジニア/WEBエンジニア経て、EC事業のEngineering Managerに就任。
+
+
+             複数のチームビルド、プロジェクト推進を担当.
+
+
+             ご連絡の際は[twitterからDM](https://twitter.com/tatsumon4)をいただければ幸いです。
+
+          "
 
   button:
-    enable : false
-    label : "Download Company Profile"
+    enable : true
+    label : "Download Resume"
     link : "#"
 
   funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
-      count : "349"
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Supervised a staff of 30 + "
+      count : "30"
       
     # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "35000"
+    - icon : "ion-social-yen-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Sales Results 12billion +"
+      count : "12000000000"
       
     # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "70"
-      
-    # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
+    - icon : "ion-ios-list-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Complete project 10 +"
       count : "10"
-      
-    # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "75"
-      
-    # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "20"
-      
+
 ################################ feature #####################################
 features:
   enable : false
