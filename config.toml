@@ -93,7 +93,7 @@ disableLanguages = [""]
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Tatsumon's blog & profile"
 author = "Tatsumon"
 # Contact Information
 mobile = "#"
