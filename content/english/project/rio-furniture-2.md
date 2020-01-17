@@ -2,8 +2,8 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/fanza.png"
+bg_image: "images/feature-bg.jpg"
 category: "Project Management"
 information:
   - label : "Client"

@@ -1,26 +1,20 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "DMM電子書籍AWS移行プロジェクト"
+description: "オンプレミスの環境からAWSへプロダクトを移行"
 draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/dmm-books-logo.png"
+bg_image: "images/feature-bg.jpg"
 category: "Project Management"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Roll"
+    info : "Project manager"
+  - label : "Project period"
+    info : "2018/12 - 2019/04"
+  - label : ""
+    info : " PHP7 / ECS / "
 ---
 
-## Behance Website Redesign
+## DMMの既存事業で初めてオンプレミスからAWSへの移行を実施
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
