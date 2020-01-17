@@ -29,7 +29,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   bg_image : "images/feature-bg.jpg"
   title : "Production result / Press release"
   content : "
@@ -56,7 +56,7 @@ cta:
   button:
     enable : true
     label : "Contact"
-    link : "author/tatsumon/"
+    link : "about"
 
 ############################# Funfacts ###############################
 funfacts:

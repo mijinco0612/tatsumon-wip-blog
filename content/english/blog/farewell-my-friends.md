@@ -2,7 +2,7 @@
 title: 仲間を見送ってきた。
 date: 2020-01-01T14:03:10.403Z
 author: Tatsumon
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/sake.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["poem"]
 
