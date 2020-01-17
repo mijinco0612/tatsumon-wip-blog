@@ -19,7 +19,7 @@ about:
   button:
     enable : true
     label : "Download Resume"
-    link : "#"
+    link : "doc/resume.pdf"
 
   social:
     - icon: "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
