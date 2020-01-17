@@ -20,32 +20,16 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+## 訪問介護事業者用スマートフォン向けWebサービス開発チームのリーダーを担当。 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+複数のチーム長を兼務することで、マネジメントの比重が高くなりつつあったため、育成したメンバーのスキルセットや志向に併せてチームを再編成し、安定期に入ったサービス群を管轄から手放しメンバーに委任することを決定。 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+チームリードを担いつつ開発メンバーとして業務分析・要件定義・アーキテクチャ構成・開発・テスト・運用までをおこなう。 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+チーム運用時の課題であったメンバー間のスキルセットの違いによって担当できるストーリーに偏りができることを是正するために、スキルセットが揃ったメンバーを選出、
+このメンバーで開発→テストまでのイテレーション開発を行うこととした。
+
+結果的にメンバー間での工程待ちや、スキルセットの違いによるコミュニケーションロスなどが減り、開発メンバーの負荷の偏りなどが著しく減らすことができた。 
+
+安定期に入ったサービスを一任されたメンバーたちは、落ち着いて業務を運用しつつ学習ができるように、現プロジェクトのPRには参加してもらい、意見交換や質疑応答を行うことで、全体の技術の底上げを図った。
